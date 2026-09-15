@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-15",
+  "author": "유라",
+  "moodTags": [
+    "#피곤"
+  ],
+  "content": "test",
+  "images": [],
+  "checklist": {
+    "sleepHours": null,
+    "medication": false,
+    "outing": false,
+    "cleaning": false,
+    "delivery": false
+  },
+  "reactions": {},
+  "comments": [],
+  "createdAt": "2026-09-15T00:26:39.898Z",
+  "updatedAt": "2026-09-15T00:26:41.770Z"
+}
